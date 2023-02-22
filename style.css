@@ -91,3 +91,15 @@ p{
     width: 300px;
   }
 }
+
+.follow-me{
+  padding: 5px 20px 0px 20px;
+}
+
+.follow-me ul{
+  margin: 0px;
+}
+
+.follow-me h2{
+  margin: 0px;
+}
